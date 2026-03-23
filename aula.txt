@@ -1,0 +1,5 @@
+Objetos e classes
+
+Objeto: Representação de entidades do mundo real que possuem atributos (estados) e comportamentos (métodos)
+
+Classe: Representa o objeto
