@@ -1,0 +1,15 @@
+Encapsulamento: ocultar detalhes internos do objeto e expor apenas o necessário
+
+Abstração: uma parte complexa representada de forma simplificada
+
+Herança: retorno de características que podem ser usadas novamente
+
+Polimorfismo: permissão de objetos de diferentes classes para que sejam tratados como objetos de uma classe comum
+
+
+
+CLASSE: representar o objeto
+    Vai representar:
+        Quais atributos um objeto vai ter (dados)
+        Quais métodos um objeto poderá executar (comportamentos)
+        Como os objetos serão criados e inicializados

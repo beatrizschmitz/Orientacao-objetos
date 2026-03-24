@@ -1,5 +1,14 @@
-Objetos e classes
+OBJETOS E CLASSES
 
 Objeto: Representação de entidades do mundo real que possuem atributos (estados) e comportamentos (métodos)
 
 Classe: Representa o objeto
+
+---------------------------------------------------------------------------------------------------------------
+
+Encapsulamento
+
+Altitude
+
+Velocidade
+Velocímetro - Precisa do módulo que mede a velocidade, não precisa saber como o módulo calcula a velocidade
